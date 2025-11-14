@@ -9,11 +9,13 @@ namespace MeetingApp
     public static class MeetingSchedule
     {
         public static List<Meeting> Meetings { get; set; } = new List<Meeting>();
+        public static bool fd {get;set;} = true;
         public static void SetMeeting(string fullname, DateOnly from, DateOnly to)
         {
             if (Meetings.Any(m => from < m.ToDate && to > m.FromDate))
             {
-                throw new ArgumentException("Bu vaxti meeting var");
+                Console.WriteLine("Bu vaxti meeting var");
+                fd = false;
             }
             else
             {

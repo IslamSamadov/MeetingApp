@@ -19,13 +19,18 @@ while (!exit)
             DateOnly dateTime = DateOnly.Parse(Console.ReadLine());
             if (dateTime < DateOnly.FromDateTime(DateTime.Now))
             {
-                throw new DateFromPast("Daxil olunan tarix kecmise aid ola bilmez");
+                Console.WriteLine("Tarix kecmise aid ola bilmez");
+                break;
             }
             Console.WriteLine("\nMeeting bitme vaxti daxil edin");
             DateOnly dateTimeEnd = DateOnly.Parse(Console.ReadLine());
             if (dateTime > dateTimeEnd)
             {
                 throw new DateFromPast("Bitme tarixi baslamadan sonra ola bilmez");
+            }
+            if (MeetingSchedule.fd == false)
+            {
+                break;
             }
             MeetingSchedule.SetMeeting(title, dateTime, dateTimeEnd);
             break;
