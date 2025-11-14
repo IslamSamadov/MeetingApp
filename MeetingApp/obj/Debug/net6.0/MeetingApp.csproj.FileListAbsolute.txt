@@ -1,0 +1,15 @@
+C:\Users\II novbe\Desktop\MeetingApp\MeetingApp\bin\Debug\net6.0\MeetingApp.exe
+C:\Users\II novbe\Desktop\MeetingApp\MeetingApp\bin\Debug\net6.0\MeetingApp.deps.json
+C:\Users\II novbe\Desktop\MeetingApp\MeetingApp\bin\Debug\net6.0\MeetingApp.runtimeconfig.json
+C:\Users\II novbe\Desktop\MeetingApp\MeetingApp\bin\Debug\net6.0\MeetingApp.dll
+C:\Users\II novbe\Desktop\MeetingApp\MeetingApp\bin\Debug\net6.0\MeetingApp.pdb
+C:\Users\II novbe\Desktop\MeetingApp\MeetingApp\obj\Debug\net6.0\MeetingApp.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\MeetingApp\MeetingApp\obj\Debug\net6.0\MeetingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\MeetingApp\MeetingApp\obj\Debug\net6.0\MeetingApp.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\MeetingApp\MeetingApp\obj\Debug\net6.0\MeetingApp.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\MeetingApp\MeetingApp\obj\Debug\net6.0\MeetingApp.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\MeetingApp\MeetingApp\obj\Debug\net6.0\MeetingApp.dll
+C:\Users\II novbe\Desktop\MeetingApp\MeetingApp\obj\Debug\net6.0\refint\MeetingApp.dll
+C:\Users\II novbe\Desktop\MeetingApp\MeetingApp\obj\Debug\net6.0\MeetingApp.pdb
+C:\Users\II novbe\Desktop\MeetingApp\MeetingApp\obj\Debug\net6.0\MeetingApp.genruntimeconfig.cache
+C:\Users\II novbe\Desktop\MeetingApp\MeetingApp\obj\Debug\net6.0\ref\MeetingApp.dll
