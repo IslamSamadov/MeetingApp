@@ -11,7 +11,7 @@ namespace MeetingApp
         public static List<Meeting> Meetings { get; set; } = new List<Meeting>();
         public static void SetMeeting(string fullname, DateOnly from, DateOnly to)
         {
-            if (Meetings.Any(m => from < m.ToDate))
+            if (Meetings.Any(m => from < m.ToDate && to > m.FromDate))
             {
                 throw new ArgumentException("Bu vaxti meeting var");
             }
